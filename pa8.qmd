@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 8: Collaborating On Github"
+author: "Kyle, Janalyn, Elizabeth"
 format: html
 editor: visual
 ---
