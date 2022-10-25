@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 8: Collaborating On Github"
-author: "Kyle Bistrain, Elizabeth Scholtes, and Jan Lao"
+author: "Kyle Bistrain, Elizabeth Scholtes, and Janalyn Lao"
 format: html
 editor: visual
 ---
